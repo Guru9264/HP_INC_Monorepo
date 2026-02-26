@@ -1,0 +1,9 @@
+[submodule "SalesOrderReq_HP_POC"]
+	path = SalesOrderReq_HP_POC
+	url = https://github.com/MarJas94/SalesOrderReq_HP_POC.git
+[submodule "hubmaster"]
+	path = hubmaster
+	url = https://github.com/jczastorust/hubmaster.git
+[submodule "buyer_portal_poc"]
+	path = buyer_portal_poc
+	url = https://github.com/jczastorust/buyer.portal.poc.git
